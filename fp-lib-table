@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Additional_Player_PCB")(type "KiCad")(uri "${KIPRJMOD}/Additional_Player_PCB.pretty")(options "")(descr ""))
+)
